@@ -1,3 +1,6 @@
 [submodule "package/homeproxy"]
 	path = package/homeproxy
 	url = https://github.com/muink/homeproxy.git
+[submodule "package/chinadns-ng"]
+	path = package/chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
